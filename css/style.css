@@ -4,7 +4,7 @@
 }
 
 body{
-  background-color: rgb(51, 29, 8);
+  background-color: #775728;
 }
 
 nav ul {
@@ -13,12 +13,13 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  font-weight: bold;
+  
 }
 
 nav ul li a {
   text-decoration: none;
-  color: rgba(8, 7, 61, 0.842);
+  color: #FCE2BB;
+  
 }
 
 .banner {
@@ -29,15 +30,15 @@ nav ul li a {
   height: 600px;
   text-align: center;
   font-family: Ringbearer;
-  font-weight: bolder;
-  color: rgba(61, 38, 16, 0.842);
+  font-weight: 700;
+  font-size: larger;
+  color: #3d2610d7;
   vertical-align: baseline;
 }
 
 .secao-botao{
     text-decoration: none;
-    font-weight: bold;
-    color: rgba(8, 7, 61, 0.842);
+    color:  #fce2bb;
 }
 
 
