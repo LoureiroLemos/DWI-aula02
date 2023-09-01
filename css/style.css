@@ -48,15 +48,16 @@ nav ul li a {
   
 }
 
-.banner h1 {
+h1 {
   margin-bottom: 20px;
-  background-color: rgba(245, 245, 220, 0.205);
+  background-color: rgba(245, 245, 220, 0.25);
   
 }
 
 .banner p{
-  background-color: rgba(245, 245, 220, 0.205);
+  background-color: rgba(245, 245, 220, 0.25);
 }
+
 
 .secao-temp {
   padding: 30px 30px 0px 30px;
@@ -92,8 +93,12 @@ nav ul li a {
 }
 
 footer {
+  height: 100px;
   background-color: rgb(83, 83, 83);
   border-top-style: ridge;
   margin-top: 20px;
-  padding: 8px;
+  
+  
 }
+
+
